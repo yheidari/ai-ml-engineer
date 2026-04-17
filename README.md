@@ -1,4 +1,4 @@
-# Yashar Heidari â€” AI / Machine Learning Engineer Portfolio
+# Yashar Heidari — AI / Machine Learning Engineer Portfolio
 
 Production ML, LLM apps, and eval-first deployment.
 
@@ -13,7 +13,7 @@ ML Engineer with 5 years of experience bringing predictive and generative-AI sol
 
 ## Contact
 
-- Location: Messina, Italy آ· Open to Remote
+- Location: Messina, Italy · Open to Remote
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
 - GitHub: https://github.com/yheidari/ai-ml-engineer
